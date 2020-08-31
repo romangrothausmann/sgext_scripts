@@ -1,0 +1,3 @@
+[submodule "SGGEN"]
+	path = SGGEN
+	url = https://github.com/phcerdan/SGGEN.git
